@@ -6,7 +6,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: any
 - ⚡ Fun fact: ...
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=4EADDB&background=000000&center=true&vCenter=true&height=100&lines=Heyo!;hiya!;meh"}
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=4EADDB&background=000000&center=true&vCenter=true&height=100&lines=Heyo!;hiya!;meh"></a>
 <!---
 hehe9090909/hehe9090909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
