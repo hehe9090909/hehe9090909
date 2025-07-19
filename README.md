@@ -1,12 +1,12 @@
-![](https://komarev.com/ghpvc/?username=hehe9090909)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi;hi2;hi3)](https://git.io/typing-svg)
-- 👋 Hi, I’m @hehe9090909
+![View Counter](https://komarev.com/ghpvc/?username=hehe9090909)
+- 👋 ![](https://img.shields.io/badge/Hi%2C%20I%E2%80%99m-hehe9090909-00ff00%3F)
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: any
+- 😄 ![](https://img.shields.io/badge/Pronouns-any-00ff00%3F)
 - ⚡ Fun fact: ...
+
 <!---
 hehe9090909/hehe9090909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
