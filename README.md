@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=hehe9090909)
 - 👋 Hi, I’m @hehe9090909
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,7 +7,6 @@
 - 😄 Pronouns: any
 - ⚡ Fun fact: ...
 
-![](https://komarev.com/ghpvc/?username=hehe9090909)
 <!---
 hehe9090909/hehe9090909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
